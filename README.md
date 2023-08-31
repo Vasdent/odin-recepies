@@ -1,1 +1,1 @@
-Proect to provide opportunity to learn building Websites.
+Project to provide opportunity to learn building Websites.
